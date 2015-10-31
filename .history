@@ -1,0 +1,16 @@
+ls -al
+ll
+cd dev/rb
+cd rails\scrape-management-in-rails\
+ls
+ll
+cd rails\scrape-management-in-rails\
+l
+cd dev/rb
+cd rails
+cd scrape-management-in-rails\
+ls
+subl
+sublime
+rake T
+rake -T
